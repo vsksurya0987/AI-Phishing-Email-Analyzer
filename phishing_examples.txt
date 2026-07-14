@@ -1,0 +1,251 @@
+
+================================================================================
+EXAMPLE 1 - SBI BANK PHISHING
+================================================================================
+Subject: Urgent! SBI Account Suspended
+
+Dear Customer,
+
+Your SBI account has been temporarily suspended due to suspicious activity.
+
+Please verify your account immediately using the secure portal below:
+
+https://sbi-secure-login.xyz
+
+Failure to verify within 24 hours will permanently block your account.
+
+
+================================================================================
+EXAMPLE 2 - HDFC BANK
+================================================================================
+Subject: HDFC Verification Required
+
+Dear User,
+
+Your HDFC NetBanking account requires immediate verification.
+
+Click below:
+
+https://hdfc-login-security.xyz
+
+
+================================================================================
+EXAMPLE 3 - ICICI BANK
+================================================================================
+Subject: ICICI Bank Alert
+
+Unusual login detected.
+
+Verify your account immediately.
+
+https://icici-security.xyz
+
+
+================================================================================
+EXAMPLE 4 - PAYPAL
+================================================================================
+Subject: PayPal Security Alert
+
+We noticed suspicious activity.
+
+Verify your PayPal account.
+
+https://paypal-secure-login.xyz
+
+
+================================================================================
+EXAMPLE 5 - AMAZON
+================================================================================
+Subject: Amazon Delivery Failed
+
+Your package delivery failed.
+
+Update your delivery address below.
+
+https://amazon-delivery-update.xyz
+
+
+================================================================================
+EXAMPLE 6 - FLIPKART
+================================================================================
+Subject: Flipkart Order Verification
+
+Confirm your address.
+
+https://flipkart-order.xyz
+
+
+================================================================================
+EXAMPLE 7 - GOOGLE
+================================================================================
+Subject: Google Security Warning
+
+Suspicious login detected.
+
+Verify your Google account.
+
+https://google-account-security.xyz
+
+
+================================================================================
+EXAMPLE 8 - MICROSOFT
+================================================================================
+Subject: Microsoft Password Expired
+
+Reset your password immediately.
+
+https://microsoft-login.xyz
+
+
+================================================================================
+EXAMPLE 9 - APPLE ID
+================================================================================
+Subject: Apple ID Locked
+
+Your Apple ID has been locked.
+
+Unlock now.
+
+https://apple-security.xyz
+
+
+================================================================================
+EXAMPLE 10 - WHATSAPP
+================================================================================
+Subject: WhatsApp Verification
+
+Your account requires verification.
+
+https://whatsapp-security.xyz
+
+
+================================================================================
+EXAMPLE 11 - PHONEPE
+================================================================================
+Subject: PhonePe KYC Update
+
+Complete your KYC immediately.
+
+https://phonepe-kyc.xyz
+
+
+================================================================================
+EXAMPLE 12 - PAYTM
+================================================================================
+Subject: Paytm Wallet Suspended
+
+Update your account.
+
+https://paytm-wallet.xyz
+
+
+================================================================================
+EXAMPLE 13 - NETFLIX
+================================================================================
+Subject: Payment Failed
+
+Your subscription has expired.
+
+Update payment details.
+
+https://netflix-update.xyz
+
+
+================================================================================
+EXAMPLE 14 - FACEBOOK
+================================================================================
+Subject: Facebook Account Disabled
+
+Appeal immediately.
+
+https://facebook-security.xyz
+
+
+================================================================================
+EXAMPLE 15 - LINKEDIN
+================================================================================
+Subject: New Job Offer
+
+Download your interview letter.
+
+https://linkedin-careers.xyz
+
+
+================================================================================
+EXAMPLE 16 - HR PAYROLL
+================================================================================
+Subject: Salary Revision
+
+Download revised salary details.
+
+https://company-payroll.xyz
+
+
+================================================================================
+EXAMPLE 17 - UNIVERSITY
+================================================================================
+Subject: Student Portal Verification
+
+Verify your university credentials.
+
+https://student-login.xyz
+
+
+================================================================================
+EXAMPLE 18 - CRYPTO WALLET
+================================================================================
+Subject: Wallet Locked
+
+Verify ownership.
+
+https://crypto-wallet.xyz
+
+
+================================================================================
+EXAMPLE 19 - INCOME TAX
+================================================================================
+Subject: Tax Refund
+
+Claim your refund now.
+
+https://tax-refund.xyz
+
+
+================================================================================
+EXAMPLE 20 - COURIER
+================================================================================
+Subject: Courier Delivery Failed
+
+Reschedule delivery.
+
+https://courier-update.xyz
+
+
+================================================================================
+COMMON PHISHING INDICATORS
+================================================================================
+
+• Creates urgency
+• Threatens account suspension
+• Requests passwords
+• Requests OTPs
+• Requests banking information
+• Uses unknown domains
+• Uses fake login pages
+• Requests immediate payment
+• Uses fear tactics
+• Creates pressure
+• Uses shortened URLs
+• Requests confidential information
+
+================================================================================
+BEST PRACTICES
+================================================================================
+
+• Never click unknown links.
+• Verify the sender's email.
+• Check the domain carefully.
+• Enable Multi-Factor Authentication.
+• Never share OTPs.
+• Report suspicious emails.
+• Contact the organization through official channels.
